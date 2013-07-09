@@ -9,30 +9,31 @@
 \usepackage{graphicx}
 \usepackage[T2A]{fontenc}
 \usepackage[utf8x]{inputenc}
-\usepackage[russian, english]{babel}
+\usepackage[english, russian]{babel}
 %----------------------------------------------------------
-\newtheorem{theorem}{Theorem}
+\newtheorem{theorem}{Теорема}
 \newtheorem{acknowledgement}[theorem]{Acknowledgement}
 \newtheorem{algorithm}[theorem]{Algorithm}
 \newtheorem{axiom}[theorem]{Axiom}
 \newtheorem{case}[theorem]{Case}
-\newtheorem{claim}[theorem]{Claim}
+\newtheorem{claim}[theorem]{Утверждение}
 \newtheorem{conclusion}[theorem]{Conclusion}
 \newtheorem{condition}[theorem]{Condition}
 \newtheorem{conjecture}[theorem]{Conjecture}
 \newtheorem{corollary}[theorem]{Corollary}
 \newtheorem{criterion}[theorem]{Criterion}
-\newtheorem{definition}[theorem]{Definition}
+\newtheorem{definition}[theorem]{Определение}
 \newtheorem{example}[theorem]{Example}
 \newtheorem{exercise}[theorem]{Exercise}
-\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{lemma}[theorem]{Лемма}
 \newtheorem{notation}[theorem]{Notation}
 \newtheorem{problem}[theorem]{Problem}
 \newtheorem{proposition}[theorem]{Proposition}
-\newtheorem{remark}[theorem]{Remark}
+\newtheorem{remark}[theorem]{Замечание}
 \newtheorem{solution}[theorem]{Solution}
 \newtheorem{summary}[theorem]{Summary}
-\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+%\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+\newenvironment{proof}{\par\noindent{\bf Доказательство.}}{\hfill$\scriptstyle\blacksquare$}
 %----------------------------------------------------------
 \begin{document}
 \frenchspacing

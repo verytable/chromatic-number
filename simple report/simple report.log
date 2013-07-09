@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.31)  7 JUL 2013 22:22
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.31)  10 JUL 2013 01:23
 entering extended mode
 **simple*report.tex
 ("C:\Users\user\Documents\simple report\simple report.tex"
@@ -157,37 +157,37 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
-Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
  ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count102
 \U@D=\dimen114
 )
-Package babel Info: Making " an active character on input line 199.
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+Package babel Info: Making " an active character on input line 199.
 ))
 \c@theorem=\count103
 
 ("C:\Users\user\Documents\simple report\simple report.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
@@ -206,47 +206,40 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-4.def"
 File: uni-4.def 2012/04/20 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Chapter 1.
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-Overfull \hbox (23.11119pt too wide) in paragraph at lines 47--54
-\T2A/cmr/m/n/10 но и для пространства с евклидовой метрикой. Введем необходимые определения: 
+Overfull \hbox (3.09233pt too wide) in paragraph at lines 65--68
+[]\T2A/cmr/m/it/10 Хроматическим чи-лом про-стран-ства $\U/msb/m/n/10 R[]$ \T2A/cmr/m/it/10 на-зы-ва-ет-ся та-
  []
 
 
-Overfull \hbox (18.77872pt too wide) in paragraph at lines 56--58
-[]\T2A/cmr/m/it/10 Правильной раскраской пространства $\U/msb/m/n/10 R[]$ \T2A/cmr/m/it/10 в $\OML/cmm/m/it/10 m$ \T2A/c
-mr/m/it/10 цветов называется
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
  []
 
 
-Overfull \hbox (16.09642pt too wide) in paragraph at lines 73--75
-[]\T2A/cmr/m/it/10 Дистанционным графом $\OML/cmm/m/it/10 G\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V; E\OT1/cmr/m/n/10 )$ \T2A
-/cmr/m/it/10 в пространстве $\U/msb/m/n/10 R[]$ \T2A/cmr/m/it/10 называется
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
 
  []
 
 <R1.png, id=7, 3028.113pt x 251.7405pt>
 File: R1.png Graphic file (type png)
  <use R1.png>
-Package pdftex.def Info: R1.png used on input line 94.
+Package pdftex.def Info: R1.png used on input line 95.
 (pdftex.def)             Requested size: 363.35788pt x 30.20755pt.
 
-Overfull \hbox (18.35788pt too wide) in paragraph at lines 94--95
+Overfull \hbox (18.35788pt too wide) in paragraph at lines 95--96
  [] 
  []
 
@@ -255,131 +248,114 @@ Overfull \hbox (18.35788pt too wide) in paragraph at lines 94--95
 ] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-32.def"
 File: uni-32.def 2012/04/20 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (2.85866pt too wide) in paragraph at lines 104--108
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Рассмотрим разбиение плоскости на шестиугольники с диагональю,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
-<R2-1.png, id=24, 1789.4052pt x 350.5095pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+
+ []
+
+<R2-1.png, id=22, 1789.4052pt x 350.5095pt>
 File: R2-1.png Graphic file (type png)
  <use R2-1.png>
-Package pdftex.def Info: R2-1.png used on input line 109.
+Package pdftex.def Info: R2-1.png used on input line 110.
 (pdftex.def)             Requested size: 214.71936pt x 42.05933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
-<R2.png, id=25, 1940.9313pt x 1001.1804pt>
+<R2.png, id=23, 1940.9313pt x 1001.1804pt>
 File: R2.png Graphic file (type png)
  <use R2.png>
-Package pdftex.def Info: R2.png used on input line 115.
+Package pdftex.def Info: R2.png used on input line 116.
 (pdftex.def)             Requested size: 232.9017pt x 120.13646pt.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-0.def"
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-0.def"
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (38.40645pt too wide) in paragraph at lines 124--128
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Приведем дистанционный граф на плоскости, так называемое ѕМозеровское
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--128
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
 
  []
 
-<mozer.png, id=26, 231.9867pt x 228.1323pt>
+[2 <C:/Users/user/Documents/simple report/R1.png> <C:/Users/user/Documents/simple report/R2-1.png> <C:/Users/user/Docume
+nts/simple report/R2.png>] <mozer.png, id=32, 231.9867pt x 228.1323pt>
 File: mozer.png Graphic file (type png)
  <use mozer.png>
-Package pdftex.def Info: mozer.png used on input line 129.
+Package pdftex.def Info: mozer.png used on input line 130.
 (pdftex.def)             Requested size: 185.58958pt x 182.50607pt.
- [2 <C:/Users/user/Documents/simple report/R1.png> <C:/Users/user/Documents/simple report/R2-1.png> <C:/Users/user/Docum
-ents/simple report/R2.png>]
-Overfull \hbox (0.67065pt too wide) in paragraph at lines 132--139
-[]\T2A/cmr/m/it/10 Рассмотрим два треугольника $\OML/cmm/m/it/10 ABC$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/10 DBC$ \T2A/cmr
-/m/it/10 со стороной 1, ѕсклеенныеї
+
+Overfull \hbox (12.81657pt too wide) in paragraph at lines 142--144
+[]\T2A/cmr/m/it/10 (Д.Е. Рай-ский, 1970 г). Име-ет ме-сто нера-вен-ство: $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\U/msb/m/n/
+10 R[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (19.5167pt too wide) in paragraph at lines 141--156
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Построим дистанционный граф, который будет являться трехмерным
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
  []
 
 
-Overfull \hbox (15.27547pt too wide) in paragraph at lines 141--156
-\T2A/cmr/m/it/10 обобщением ѕмозеровского веретенаї. Рассмотрим два правильных тетраэдра
+Overfull \hbox (5.26053pt too wide) in paragraph at lines 144--157
+\T2A/cmr/bx/n/10 Доказательство. \T2A/cmr/m/it/10 По-стро-им ди-стан-ци-он-ный граф, ко-то-рый бу-дет яв-лять-
  []
 
 
-Overfull \hbox (18.48805pt too wide) in paragraph at lines 141--156
-\OML/cmm/m/it/10 ABCD$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/10 A[]BCD$\T2A/cmr/m/it/10 , ѕсклеенныеї по грани. Пусть каждое
- ребро этих тетраэдров
+Overfull \hbox (3.21628pt too wide) in paragraph at lines 144--157
+\T2A/cmr/m/it/10 ся трех-мер-ным обоб-ще-ни-ем ѕмо-зе-ров-ско-го ве-ре-те-наї. Рас-смот-рим два пра-
  []
 
 
-Overfull \hbox (12.65611pt too wide) in paragraph at lines 141--156
-\T2A/cmr/m/it/10 при повороте обозначены двумя штрихами). Предположим, что существует
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--156
+Underfull \hbox (badness 10000) in paragraph at lines 144--157
 
  []
 
 <raisky.png, id=33, 660.7887pt x 837.8502pt>
 File: raisky.png Graphic file (type png)
  <use raisky.png>
-Package pdftex.def Info: raisky.png used on input line 157.
+Package pdftex.def Info: raisky.png used on input line 158.
 (pdftex.def)             Requested size: 165.19676pt x 209.46204pt.
  [3 <C:/Users/user/Documents/simple report/mozer.png>]
-Overfull \hbox (2.85977pt too wide) in paragraph at lines 165--174
-[]\T2A/cmr/m/it/10 (О. Нечуштан, 2002 г, [[]]) Имеет место неравенство: $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\U/msb/m/n/1
-0 R[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
+Overfull \hbox (0.83943pt too wide) in paragraph at lines 166--168
+[]\T2A/cmr/m/it/10 (О. Нечу-штан, 2002 г, [[]]) Име-ет ме-сто нера-вен-ство: $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\U/msb/
+m/n/10 R[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (16.79639pt too wide) in paragraph at lines 165--174
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Предположим, что существует правильная раскраска $\OML/cmm/m/it/10 F$ \T2A/cmr
-/m/it/10 пространства
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--174
+Underfull \hbox (badness 10000) in paragraph at lines 168--175
 
  []
 
 <nechushtan.png, id=39, 777.3843pt x 902.4114pt>
 File: nechushtan.png Graphic file (type png)
  <use nechushtan.png>
-Package pdftex.def Info: nechushtan.png used on input line 175.
+Package pdftex.def Info: nechushtan.png used on input line 176.
 (pdftex.def)             Requested size: 194.3456pt x 225.6023pt.
  [4 <C:/Users/user/Documents/simple report/raisky.png>]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 199.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 199.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
 
 
-Overfull \hbox (5.43411pt too wide) in paragraph at lines 193--202
-\T2A/cmr/m/it/10 1, и раскраска правильная. Точки $\OML/cmm/m/it/10 S$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/10 T$ \T2A/cmr/
-m/it/10 разного цвета, значит, для раскраски
- []
-
-
-Overfull \hbox (15.31226pt too wide) in paragraph at lines 193--202
-\T2A/cmr/m/it/10 одноцветный среди них есть. Получаем утверждение второго пункта леммы.
- []
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 204.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 205.
 
 [5 <C:/Users/user/Documents/simple report/nechushtan.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 210.
+ []
 
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 211.
@@ -388,298 +364,106 @@ LaTeX Warning: Command \textquoteright invalid in math mode on input line 211.
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 212.
 
 
-Overfull \hbox (28.52855pt too wide) in paragraph at lines 207--216
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Из леммы 1 следует, что один из отрезков $\OML/cmm/m/it/10 QV$ \T2A/cmr/m/it/1
-0 и $\OML/cmm/m/it/10 QV[]$ \T2A/cmr/m/it/10 будет одноцветным
- []
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 213.
 
 
-Overfull \hbox (19.33383pt too wide) in paragraph at lines 219--225
-\T2A/cmr/m/n/10 окружности $\OML/cmm/m/it/10 C$ \T2A/cmr/m/n/10 не используется цвет точки $\OML/cmm/m/it/10 Q$\T2A/cmr/
-m/n/10 . Для любой точки $\OML/cmm/m/it/10 P$ \T2A/cmr/m/n/10 на окружности
- []
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 233.
-
-
-Overfull \hbox (31.1618pt too wide) in paragraph at lines 242--243
-[]\T2A/cmr/m/n/10 Дальше речь пойдет об оценках хроматического числа в больших размерностях,
- []
-
-
-Overfull \hbox (12.94106pt too wide) in paragraph at lines 245--250
-\T2A/cmr/m/it/10 правильной раскраски $\OML/cmm/m/it/10 F$ \T2A/cmr/m/it/10 число $\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (
-\OML/cmm/m/it/10 U\OT1/cmr/m/n/10 )$ \T2A/cmr/m/it/10  это наибольшее такое $\OML/cmm/m/it/10 k$\T2A/cmr/m/it/10 , что 
-найдется
- []
-
-
-Overfull \hbox (21.68788pt too wide) in paragraph at lines 245--250
-\T2A/cmr/m/it/10 покраску множества $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 U\OT1/cmr/m/n/10 )$ \T2A/cmr/m/
-it/10 в раскраске $\OML/cmm/m/it/10 F$\T2A/cmr/m/it/10 , равно $\OML/cmm/m/it/10 k$\T2A/cmr/m/it/10 . Тогда пестротой мн
-ожества
- []
-
-
-Overfull \hbox (2.4576pt too wide) in paragraph at lines 252--254
-\T2A/cmr/m/it/10 где $\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 U\OT1/cmr
-/m/n/10 ))$ \T2A/cmr/m/it/10  количество цветов, используемых в раскраске $\OML/cmm/m/it/10 F$ \T2A/cmr/m/it/10 при пок
-раске
- []
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 234.
 
 [6]
-Overfull \hbox (14.20438pt too wide) in paragraph at lines 268--273
-\T2A/cmr/m/it/10 найдется двумерная сфера $\OML/cmm/m/it/10 S[]$ \T2A/cmr/m/it/10 радиуса $[]$, при раскраске которой ис
-пользуется
- []
-
-
-Overfull \hbox (9.55136pt too wide) in paragraph at lines 268--273
-\T2A/cmr/m/it/10 5 цветов. Через центр этой сферы можно провести прямую, ортогональную
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--273
+Underfull \hbox (badness 10000) in paragraph at lines 268--274
 
  []
 
 <R4.png, id=53, 385.6809pt x 377.9721pt>
 File: R4.png Graphic file (type png)
  <use R4.png>
-Package pdftex.def Info: R4.png used on input line 274.
+Package pdftex.def Info: R4.png used on input line 275.
 (pdftex.def)             Requested size: 96.41998pt x 94.49278pt.
 
-Overfull \hbox (0.6472pt too wide) in paragraph at lines 277--280
-[]\T2A/cmr/m/it/10 При заданном радиусе точки сферы $\OML/cmm/m/it/10 S[]$ \T2A/cmr/m/it/10 будут находиться на расстоян
-ии
- []
-
-
-Overfull \hbox (6.47636pt too wide) in paragraph at lines 282--283
-\T2A/cmr/m/n/10 вложена). Не будем приводить вычислений для допустимого радиуса r сферы,
- []
-
-
-Overfull \hbox (13.4543pt too wide) in paragraph at lines 284--287
-[]\T2A/cmr/m/it/10 (А.Б. Купаский, [[]]) Пусть $\OML/cmm/m/it/10 Sp[]$ \T2A/cmr/m/it/10  правильный $\OML/cmm/m/it/10 n
-$\T2A/cmr/m/it/10 -мерный симплекс
- []
-
-
-Overfull \hbox (112.70313pt too wide) in paragraph at lines 292--295
-[]\T2A/cmr/m/it/10 (А.Б. Купавский [[]]) При $\OML/cmm/m/it/10 n > \OT1/cmr/m/n/10 7$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/
-10 r \OMS/cmsy/m/n/10 2 []$
+Overfull \hbox (110.68279pt too wide) in paragraph at lines 293--296
+[]\T2A/cmr/m/it/10 (А.Б. Ку-пав-ский [[]]) При $\OML/cmm/m/it/10 n > \OT1/cmr/m/n/10 7$ \T2A/cmr/m/it/10 и $\OML/cmm/m/i
+t/10 r \OMS/cmsy/m/n/10 2 []$
  []
 
 [7 <C:/Users/user/Documents/simple report/R4.png>]
-Overfull \hbox (1.0044pt too wide) in paragraph at lines 308--310
-\T2A/cmr/m/it/10 расстояние 1, то есть, удалена на расстояние, отличное от единицы,
- []
-
-
-Overfull \hbox (19.48828pt too wide) in paragraph at lines 311--314
-\T2A/cmr/m/it/10 него сфера $\OML/cmm/m/it/10 S[]$ \T2A/cmr/m/it/10 (вложенная в $\OML/cmm/m/it/10 S[]$\T2A/cmr/m/it/10 
-) лежит в $\OML/cmm/m/it/10 n$\T2A/cmr/m/it/10 -мерной плоскости, параллельной
- []
-
-
-Overfull \hbox (11.36755pt too wide) in paragraph at lines 315--321
-[]\T2A/cmr/m/it/10 Будем вращать симплекс $\OML/cmm/m/it/10 V$ \T2A/cmr/m/it/10 вокруг плоскости, содержащей $\OML/cmm/m
-/it/10 S[]$\T2A/cmr/m/it/10 . Каждая
- []
-
-
-Overfull \hbox (21.8936pt too wide) in paragraph at lines 315--321
-\T2A/cmr/m/it/10 переводят вершину $\OML/cmm/m/it/10 v$ \T2A/cmr/m/it/10 в вершины симплекса $\OML/cmm/m/it/10 Sp[]$\T2A
-/cmr/m/it/10 . Множество таких вращений
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--321
+Underfull \hbox (badness 10000) in paragraph at lines 316--322
 
  []
 
-<sphere.png, id=61, 142.8537pt x 148.1535pt>
+<sphere.png, id=58, 142.8537pt x 148.1535pt>
 File: sphere.png Graphic file (type png)
  <use sphere.png>
-Package pdftex.def Info: sphere.png used on input line 322.
+Package pdftex.def Info: sphere.png used on input line 323.
 (pdftex.def)             Requested size: 142.85333pt x 148.15314pt.
-
-Overfull \hbox (12.14386pt too wide) in paragraph at lines 325--334
-\T2A/cmr/m/it/10 то среди этих точек можно выбрать как минимум $\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 + 1$ \T2A/cmr/m/it/10
- точку, покрашенную
- []
-
-[8 <C:/Users/user/Documents/simple report/sphere.png>]
-Overfull \hbox (12.47191pt too wide) in paragraph at lines 336--340
-\T2A/cmr/m/n/10 когда семейство $\OML/cmm/m/it/10 O$ \T2A/cmr/m/n/10 вращений переводит вершину $\OML/cmm/m/it/10 v$ \T2
-A/cmr/m/n/10 в некоторый дистанционный
- []
-
-
-Overfull \hbox (5.91725pt too wide) in paragraph at lines 342--356
-\T2A/cmr/m/it/10 каждой вершины $\OML/cmm/m/it/10 v[]$ \T2A/cmr/m/it/10 образуют дистанционный граф $\OML/cmm/m/it/10 G\
-OT1/cmr/m/n/10 (\OML/cmm/m/it/10 v[]\OT1/cmr/m/n/10 )$\T2A/cmr/m/it/10 , причјм $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML
-/cmm/m/it/10 G\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 v[]\OT1/cmr/m/n/10 )) \OMS/cmsy/m/n/10 
- []
-
-
-Overfull \hbox (6.74438pt too wide) in paragraph at lines 342--356
-\T2A/cmr/m/it/10 Полученное множество вращений обозначим $\OML/cmm/m/it/10 O[]$\T2A/cmr/m/it/10 . Заметим, что для каждо
-й
- []
-
-
-Overfull \hbox (24.62259pt too wide) in paragraph at lines 342--356
-\T2A/cmr/m/it/10 аналогичные им вершины (получающиеся при тех же вращениях пространства)
- []
-
-
-Overfull \hbox (17.58366pt too wide) in paragraph at lines 357--366
-[]\T2A/cmr/m/it/10 Далее построим аналогично множество $\OML/cmm/m/it/10 O[]$ \T2A/cmr/m/it/10 для вершины $\OML/cmm/m/i
-t/10 v[]$\T2A/cmr/m/it/10 : из множества
- []
-
-[9]
-Chapter 2.
-
-Overfull \hbox (21.92047pt too wide) in paragraph at lines 376--386
-\T2A/cmr/m/it/10 содержащие его стороны, разбивают плоскость на 7 частей. Так как плоскость
- []
-
-
-Overfull \hbox (2.07599pt too wide) in paragraph at lines 376--386
-\OML/cmm/m/it/10 D$\T2A/cmr/m/it/10 , цвет которой будет отличаться от тех трех цветов, использующихся
- []
-
-
-Overfull \hbox (3.70796pt too wide) in paragraph at lines 376--386
-\T2A/cmr/m/it/10 для раскраски $\OML/cmm/m/it/10 ABC$\T2A/cmr/m/it/10 . Если точка $\OML/cmm/m/it/10 D$ \T2A/cmr/m/it/10
- лежит на одной из проведенных прямых,
- []
-
-
-Overfull \hbox (7.06087pt too wide) in paragraph at lines 376--386
-\T2A/cmr/m/it/10 то эта прямая и будет раскрашена как минимум в 3 цвета. Без ограничения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 376--386
+ [8 <C:/Users/user/Documents/simple report/sphere.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 343--347
 
  []
 
-<my_claim1.png, id=69, 284.0211pt x 221.628pt>
+[9] [10]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--387
+
+ []
+
+<my_claim1.png, id=72, 284.0211pt x 221.628pt>
 File: my_claim1.png Graphic file (type png)
  <use my_claim1.png>
-Package pdftex.def Info: my_claim1.png used on input line 387.
+Package pdftex.def Info: my_claim1.png used on input line 388.
 (pdftex.def)             Requested size: 142.0102pt x 110.81372pt.
- [10
+ [11
 
  <C:/Users/user/Documents/simple report/my_claim1.png>]
-Overfull \hbox (0.67662pt too wide) in paragraph at lines 396--403
-[]\T2A/cmr/m/it/10 Пусть раскраска плоскости такова, что для любого $\OML/cmm/m/it/10  > \OT1/cmr/m/n/10 0$ \T2A/cmr/m/
-it/10 нельзя
- []
-
-
-Overfull \hbox (13.60704pt too wide) in paragraph at lines 396--403
-\T2A/cmr/m/it/10 раскраске для любого $\OML/cmm/m/it/10  > \OT1/cmr/m/n/10 0$ \T2A/cmr/m/it/10 можно найти 3 точки разн
-ых цветов, попадающие
- []
-
-
-Overfull \hbox (10.03323pt too wide) in paragraph at lines 396--403
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Зафиксируем $\OML/cmm/m/it/10  > \OT1/cmr/m/n/10 0$\T2A/cmr/m/it/10 . Предпол
-ожим, что все круги радиуса $\OML/cmm/m/it/10 $ \T2A/cmr/m/it/10 покрашены
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--403
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
 
  []
 
-<my_claim2.png, id=74, 274.8669pt x 271.4943pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--404
+
+ []
+
+<my_claim2.png, id=77, 274.8669pt x 271.4943pt>
 File: my_claim2.png Graphic file (type png)
  <use my_claim2.png>
-Package pdftex.def Info: my_claim2.png used on input line 404.
+Package pdftex.def Info: my_claim2.png used on input line 405.
 (pdftex.def)             Requested size: 137.4331pt x 135.7468pt.
 
-Overfull \hbox (3.00786pt too wide) in paragraph at lines 407--414
-\T2A/cmr/m/it/10 что плоскость раскрашена правильно всего в 2 цвета, чего быть не может.
- []
-
-
-Overfull \hbox (10.85648pt too wide) in paragraph at lines 417--423
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Рассмотрим раскраску плоскости, которая использовалась для оценки
- []
-
-
-Overfull \hbox (1.7157pt too wide) in paragraph at lines 426--429
-\T2A/cmr/m/it/10 основанию, и $\OML/cmm/m/it/10 r > []$\T2A/cmr/m/it/10 . Множество, состоящее из вершин этого треугольн
-ика
- []
-
-
-Overfull \hbox (11.65187pt too wide) in paragraph at lines 431--440
-\T2A/cmr/bx/it/10 Proof. \T2A/cmr/m/it/10 Зафиксируем $\OML/cmm/m/it/10 r$\T2A/cmr/m/it/10 . Покажем сначала, что если в
- пространстве найдется
- []
-
-
-Overfull \hbox (5.89925pt too wide) in paragraph at lines 431--440
-\T2A/cmr/m/it/10 окружность $\OML/cmm/m/it/10 S[]$ \T2A/cmr/m/it/10 радиуса $\OML/cmm/m/it/10 r$\T2A/cmr/m/it/10 , покра
-шенная хотя бы в 3 цвета, то утверждение
- []
-
-
-Overfull \hbox (18.58328pt too wide) in paragraph at lines 431--440
-\T2A/cmr/m/it/10 будет доказано. Рассмотрим прямую, проходящую через центр $\OML/cmm/m/it/10 O$ \T2A/cmr/m/it/10 окружно
-сти
- []
-
-
-Overfull \hbox (33.93153pt too wide) in paragraph at lines 431--440
-\T2A/cmr/m/it/10 будет отличен от двух цветов $\OML/cmm/m/it/10 A$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/10 B$\T2A/cmr/m/it/
-10 . Значит, удалось обнаружить трехцветное
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--440
+Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
 
-[11 <C:/Users/user/Documents/simple report/my_claim2.png>] <my_claim3.png, id=79, 374.5995pt x 217.2918pt>
+[12 <C:/Users/user/Documents/simple report/my_claim2.png>]
+Overfull \hbox (1.54803pt too wide) in paragraph at lines 433--441
+\T2A/cmr/bx/n/10 Доказательство. \T2A/cmr/m/it/10 За-фик-си-ру-ем $\OML/cmm/m/it/10 r$\T2A/cmr/m/it/10 . По-ка-жем сна-ч
+а-ла, что ес-ли в про-стран-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--441
+
+ []
+
+<my_claim3.png, id=83, 374.5995pt x 217.2918pt>
 File: my_claim3.png Graphic file (type png)
-
-<use my_claim3.png>
-Package pdftex.def Info: my_claim3.png used on input line 441.
+ <use my_claim3.png>
+Package pdftex.def Info: my_claim3.png used on input line 442.
 (pdftex.def)             Requested size: 187.29929pt x 108.64561pt.
-
-Overfull \hbox (2.44833pt too wide) in paragraph at lines 444--452
-[]\T2A/cmr/m/it/10 Остается случай, когда все окружности радиуса r покрашены в 2 цвета.
- []
-
-
-Overfull \hbox (2.267pt too wide) in paragraph at lines 444--452
-\T2A/cmr/m/it/10 Рассмотрим две точки $\OML/cmm/m/it/10 D$ \T2A/cmr/m/it/10 и $\OML/cmm/m/it/10 E$ \T2A/cmr/m/it/10 на р
-асстоянии $\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 r$ \T2A/cmr/m/it/10 друг от друга, покрашенные
- []
-
-
-Overfull \hbox (9.37573pt too wide) in paragraph at lines 444--452
-\T2A/cmr/m/it/10 в разные цвета. Такие точки найдутся, потому что в любом равнобедренном
- []
-
-[12 <C:/Users/user/Documents/simple report/my_claim3.png>] [13
+ [13 <C:/Users/user/Documents/simple report/my_claim3.png>] [14
 
 ] ("C:\Users\user\Documents\simple report\simple report.aux") ) 
 Here is how much of TeX's memory you used:
- 4771 strings out of 494045
- 57005 string characters out of 3148390
- 105864 words of memory out of 3000000
- 7997 multiletter control sequences out of 15000+200000
- 19004 words of font info for 51 fonts, out of 3000000 for 9000
+ 4769 strings out of 494045
+ 56988 string characters out of 3148390
+ 106133 words of memory out of 3000000
+ 7996 multiletter control sequences out of 15000+200000
+ 18113 words of font info for 50 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,7n,24p,744b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-
@@ -689,15 +473,15 @@ am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/M
 /cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/cm-super/sfbi1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-sup
-er/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on "simple report.pdf" (14 pages, 2638467 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on "simple report.pdf" (15 pages, 2622958 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 155 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
