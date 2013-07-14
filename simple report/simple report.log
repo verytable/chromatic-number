@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.31)  10 JUL 2013 01:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.31)  14 JUL 2013 18:04
 entering extended mode
 **simple*report.tex
 ("C:\Users\user\Documents\simple report\simple report.tex"
@@ -172,316 +172,388 @@ Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 Package babel Info: Making " an active character on input line 199.
 ))
 \c@theorem=\count103
+\c@claim=\count104
+\c@definition=\count105
+\c@lemma=\count106
+\c@remark=\count107
 
 ("C:\Users\user\Documents\simple report\simple report.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count108
 \scratchdimen=\dimen115
 \scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count109
+\nofMParguments=\count110
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count107
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen116
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks26
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-4.def"
 File: uni-4.def 2012/04/20 UCS: Unicode data U+0400..U+04FF
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
-
-Overfull \hbox (3.09233pt too wide) in paragraph at lines 65--68
+Overfull \hbox (3.09233pt too wide) in paragraph at lines 52--55
 []\T2A/cmr/m/it/10 Хроматическим чи-лом про-стран-ства $\U/msb/m/n/10 R[]$ \T2A/cmr/m/it/10 на-зы-ва-ет-ся та-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 <R1.png, id=7, 3028.113pt x 251.7405pt>
 File: R1.png Graphic file (type png)
  <use R1.png>
-Package pdftex.def Info: R1.png used on input line 95.
+Package pdftex.def Info: R1.png used on input line 82.
 (pdftex.def)             Requested size: 363.35788pt x 30.20755pt.
 
-Overfull \hbox (18.35788pt too wide) in paragraph at lines 95--96
+Overfull \hbox (18.35788pt too wide) in paragraph at lines 82--83
  [] 
  []
 
-[1
-
-] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-32.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-32.def"
 File: uni-32.def 2012/04/20 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
-<R2-1.png, id=22, 1789.4052pt x 350.5095pt>
+[1 <C:/Users/user/Documents/simple report/R1.png>] <R2-1.png, id=24, 1789.4052pt x 350.5095pt>
 File: R2-1.png Graphic file (type png)
  <use R2-1.png>
-Package pdftex.def Info: R2-1.png used on input line 110.
+Package pdftex.def Info: R2-1.png used on input line 97.
 (pdftex.def)             Requested size: 214.71936pt x 42.05933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
+Overfull \hbox (10.2275pt too wide) in paragraph at lines 100--102
+\T2A/cmr/m/it/10 Диаметр каж-до-го ше-сти-уголь-ни-ка мень-ше $\OT1/cmr/m/n/10 1$\T2A/cmr/m/it/10 , по-это-му про-ти-во-
+ре-чий не воз-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 
  []
 
-<R2.png, id=23, 1940.9313pt x 1001.1804pt>
+<R2.png, id=25, 1940.9313pt x 1001.1804pt>
 File: R2.png Graphic file (type png)
  <use R2.png>
-Package pdftex.def Info: R2.png used on input line 116.
+Package pdftex.def Info: R2.png used on input line 103.
 (pdftex.def)             Requested size: 232.9017pt x 120.13646pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Overfull \hbox (0.39857pt too wide) in paragraph at lines 106--109
+\T2A/cmr/m/it/10 Нетрудно про-ве-рить, что рас-сто-я-ние меж-ду од-но-цвет-ны-ми точ-ка-ми раз-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\data\uni-0.def"
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 126--129
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
  []
 
-[2 <C:/Users/user/Documents/simple report/R1.png> <C:/Users/user/Documents/simple report/R2-1.png> <C:/Users/user/Docume
-nts/simple report/R2.png>] <mozer.png, id=32, 231.9867pt x 228.1323pt>
+<mozer.png, id=26, 231.9867pt x 228.1323pt>
 File: mozer.png Graphic file (type png)
  <use mozer.png>
-Package pdftex.def Info: mozer.png used on input line 130.
-(pdftex.def)             Requested size: 185.58958pt x 182.50607pt.
-
-Overfull \hbox (12.81657pt too wide) in paragraph at lines 142--144
-[]\T2A/cmr/m/it/10 (Д.Е. Рай-ский, 1970 г). Име-ет ме-сто нера-вен-ство: $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\U/msb/m/n/
-10 R[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
+Package pdftex.def Info: mozer.png used on input line 117.
+(pdftex.def)             Requested size: 139.19307pt x 136.88042pt.
+ [2 <C:/Users/user/Documents/simple report/R2-1.png> <C:/Users/user/Documents/simple report/R2.png> <C:/Users/user/Docum
+ents/simple report/mozer.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
 
-Overfull \hbox (5.26053pt too wide) in paragraph at lines 144--157
+Overfull \hbox (5.26053pt too wide) in paragraph at lines 133--146
 \T2A/cmr/bx/n/10 Доказательство. \T2A/cmr/m/it/10 По-стро-им ди-стан-ци-он-ный граф, ко-то-рый бу-дет яв-лять-
  []
 
 
-Overfull \hbox (3.21628pt too wide) in paragraph at lines 144--157
+Overfull \hbox (3.21628pt too wide) in paragraph at lines 133--146
 \T2A/cmr/m/it/10 ся трех-мер-ным обоб-ще-ни-ем ѕмо-зе-ров-ско-го ве-ре-те-наї. Рас-смот-рим два пра-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--157
+Underfull \hbox (badness 10000) in paragraph at lines 133--146
+
+ []
+
+
+Overfull \hbox (2.18695pt too wide) in paragraph at lines 133--146
+\T2A/cmr/m/it/10 Предположим, что су-ще-ству-ет пра-виль-ная рас-крас-ка по-лу-чен-но-го ди-стан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--146
 
  []
 
 <raisky.png, id=33, 660.7887pt x 837.8502pt>
 File: raisky.png Graphic file (type png)
  <use raisky.png>
-Package pdftex.def Info: raisky.png used on input line 158.
-(pdftex.def)             Requested size: 165.19676pt x 209.46204pt.
- [3 <C:/Users/user/Documents/simple report/mozer.png>]
-Overfull \hbox (0.83943pt too wide) in paragraph at lines 166--168
-[]\T2A/cmr/m/it/10 (О. Нечу-штан, 2002 г, [[]]) Име-ет ме-сто нера-вен-ство: $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\U/msb/
-m/n/10 R[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
+Package pdftex.def Info: raisky.png used on input line 147.
+(pdftex.def)             Requested size: 151.9782pt x 192.70149pt.
+ [3 <C:/Users/user/Documents/simple report/raisky.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--175
+Underfull \hbox (badness 10000) in paragraph at lines 157--164
 
  []
 
 <nechushtan.png, id=39, 777.3843pt x 902.4114pt>
 File: nechushtan.png Graphic file (type png)
  <use nechushtan.png>
-Package pdftex.def Info: nechushtan.png used on input line 176.
+Package pdftex.def Info: nechushtan.png used on input line 165.
 (pdftex.def)             Requested size: 194.3456pt x 225.6023pt.
- [4 <C:/Users/user/Documents/simple report/raisky.png>]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
+Underfull \hbox (badness 10000) in paragraph at lines 168--174
+
+ []
+
+[4 <C:/Users/user/Documents/simple report/nechushtan.png>]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 189.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 189.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 205.
-
-[5 <C:/Users/user/Documents/simple report/nechushtan.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 208--210
+Underfull \hbox (badness 10000) in paragraph at lines 182--192
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 211.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 194.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 212.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 213.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 234.
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 268--274
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
-<R4.png, id=53, 385.6809pt x 377.9721pt>
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 200.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 201.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 202.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--215
+
+ []
+
+
+Overfull \hbox (9.57233pt too wide) in paragraph at lines 208--215
+\T2A/cmr/m/n/10 Для лю-бой точ-ки $\OML/cmm/m/it/10 P$ \T2A/cmr/m/n/10 на окруж-но-сти $\OML/cmm/m/it/10 C$ \T2A/cmr/m/n
+/10 мож-но по-стро-ить свое мно-же-ство $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 (	[])$\T2A/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (17.39902pt too wide) in paragraph at lines 208--215
+\T2A/cmr/m/n/10 точ-ки $\OML/cmm/m/it/10 Q$\T2A/cmr/m/n/10 . Объ-еди-няя мно-же-ства $\OML/cmm/m/it/10 \OT1/cmr/m/n/10 
+(	[])$ \T2A/cmr/m/n/10 для каж-дой точ-ки $\OML/cmm/m/it/10 P$\T2A/cmr/m/n/10 , ле-жа-щей на окруж-
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 223.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--227
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 257--263
+
+ []
+
+<R4.png, id=48, 385.6809pt x 377.9721pt>
 File: R4.png Graphic file (type png)
  <use R4.png>
-Package pdftex.def Info: R4.png used on input line 275.
+Package pdftex.def Info: R4.png used on input line 264.
 (pdftex.def)             Requested size: 96.41998pt x 94.49278pt.
-
-Overfull \hbox (110.68279pt too wide) in paragraph at lines 293--296
-[]\T2A/cmr/m/it/10 (А.Б. Ку-пав-ский [[]]) При $\OML/cmm/m/it/10 n > \OT1/cmr/m/n/10 7$ \T2A/cmr/m/it/10 и $\OML/cmm/m/i
-t/10 r \OMS/cmsy/m/n/10 2 []$
+ [6]
+Overfull \hbox (13.40121pt too wide) in paragraph at lines 289--297
+\T2A/cmr/bx/n/10 Доказательство. \T2A/cmr/m/it/10 За-фик-си-ру-ем пра-виль-ную рас-крас-ку $\U/msb/m/n/10 R[]$\T2A/cmr/m
+/it/10 , ра-ди-ус $\OML/cmm/m/it/10 r$ \T2A/cmr/m/it/10 из тео-
  []
 
-[7 <C:/Users/user/Documents/simple report/R4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 316--322
+
+Overfull \hbox (0.5168pt too wide) in paragraph at lines 298--299
+[]\T2A/cmr/m/it/10 Точки мно-же-ства $\OML/cmm/m/it/10 V$ \T2A/cmr/m/it/10 уда-ле-ны друг от дру-га на рас-сто-я-ние $\O
+T1/cmr/m/n/10 1$\T2A/cmr/m/it/10 , то есть,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--312
 
  []
 
-<sphere.png, id=58, 142.8537pt x 148.1535pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--312
+
+ []
+
+[7 <C:/Users/user/Documents/simple report/R4.png>] <sphere.png, id=60, 142.8537pt x 148.1535pt>
 File: sphere.png Graphic file (type png)
  <use sphere.png>
-Package pdftex.def Info: sphere.png used on input line 323.
+Package pdftex.def Info: sphere.png used on input line 313.
 (pdftex.def)             Requested size: 142.85333pt x 148.15314pt.
- [8 <C:/Users/user/Documents/simple report/sphere.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 343--347
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--337
 
  []
 
-[9] [10]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
+[8 <C:/Users/user/Documents/simple report/sphere.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 337--357
 
  []
 
+[9]
+Overfull \hbox (7.22464pt too wide) in paragraph at lines 364--365
+[]\T2A/cmr/m/it/10 При лю-бой пра-виль-ной рас-крас-ке плос-ко-сти най-дет-ся пря-
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--387
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--377
 
  []
 
-<my_claim1.png, id=72, 284.0211pt x 221.628pt>
+<my_claim1.png, id=69, 284.0211pt x 221.628pt>
 File: my_claim1.png Graphic file (type png)
  <use my_claim1.png>
-Package pdftex.def Info: my_claim1.png used on input line 388.
+Package pdftex.def Info: my_claim1.png used on input line 378.
 (pdftex.def)             Requested size: 142.0102pt x 110.81372pt.
- [11
 
- <C:/Users/user/Documents/simple report/my_claim1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 397--400
+Overfull \hbox (2.79115pt too wide) in paragraph at lines 387--390
+[]\T2A/cmr/m/it/10 Пусть рас-крас-ка плос-ко-сти та-ко-ва, что для лю-бо-го $\OML/cmm/m/it/10  > \OT1/cmr/m/n/10 0$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--404
+Underfull \hbox (badness 10000) in paragraph at lines 390--394
 
  []
 
-<my_claim2.png, id=77, 274.8669pt x 271.4943pt>
+<my_claim2.png, id=70, 274.8669pt x 271.4943pt>
 File: my_claim2.png Graphic file (type png)
  <use my_claim2.png>
-Package pdftex.def Info: my_claim2.png used on input line 405.
-(pdftex.def)             Requested size: 137.4331pt x 135.7468pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
+Package pdftex.def Info: my_claim2.png used on input line 395.
+(pdftex.def)             Requested size: 123.68895pt x 122.17128pt.
+ [10 <C:/Users/user/Documents/simple report/my_claim1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
-[12 <C:/Users/user/Documents/simple report/my_claim2.png>]
-Overfull \hbox (1.54803pt too wide) in paragraph at lines 433--441
+
+Overfull \hbox (1.54803pt too wide) in paragraph at lines 423--431
 \T2A/cmr/bx/n/10 Доказательство. \T2A/cmr/m/it/10 За-фик-си-ру-ем $\OML/cmm/m/it/10 r$\T2A/cmr/m/it/10 . По-ка-жем сна-ч
 а-ла, что ес-ли в про-стран-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--441
+Underfull \hbox (badness 10000) in paragraph at lines 423--431
 
  []
 
-<my_claim3.png, id=83, 374.5995pt x 217.2918pt>
+<my_claim3.png, id=75, 374.5995pt x 217.2918pt>
 File: my_claim3.png Graphic file (type png)
  <use my_claim3.png>
-Package pdftex.def Info: my_claim3.png used on input line 442.
+Package pdftex.def Info: my_claim3.png used on input line 432.
 (pdftex.def)             Requested size: 187.29929pt x 108.64561pt.
- [13 <C:/Users/user/Documents/simple report/my_claim3.png>] [14
+ [11 <C:/Users/user/Documents/simple report/my_claim2.png>] [12 <C:/Users/user/Documents/simple report/my_claim3.png>] [
+13
 
-] ("C:\Users\user\Documents\simple report\simple report.aux") ) 
+]
+("C:\Users\user\Documents\simple report\simple report.aux") ) 
 Here is how much of TeX's memory you used:
- 4769 strings out of 494045
- 56988 string characters out of 3148390
- 106133 words of memory out of 3000000
- 7996 multiletter control sequences out of 15000+200000
- 18113 words of font info for 50 fonts, out of 3000000 for 9000
+ 4735 strings out of 494045
+ 56612 string characters out of 3148390
+ 106614 words of memory out of 3000000
+ 7961 multiletter control sequences out of 15000+200000
+ 18999 words of font info for 51 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,7n,24p,744b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-
-super-t2a.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cmextra/cmex7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx2488.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/c
-m-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on "simple report.pdf" (15 pages, 2622958 bytes).
+ 27i,11n,24p,753b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-su
+per-t2a.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cmextra/cmex7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-
+super/sfbx2488.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti
+1000.pfb>
+Output written on "simple report.pdf" (14 pages, 2651370 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
